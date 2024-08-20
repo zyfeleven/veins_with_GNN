@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- 32-Tokyo1000v.launchd.xml -->
+
+
+    <launch id="with-obstacles">
+        <copy file="32-Tokyo1000v.net.xml" />
+        <copy file="32-Tokyo1000v.rou.xml" />
+        <copy file="32-Tokyo1000v.poly.xml" />
+        <copy file="32-Tokyo1000v_with_obstacles.sumo.cfg" type="config" />
+    </launch>
+
+

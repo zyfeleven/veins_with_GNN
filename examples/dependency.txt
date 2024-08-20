@@ -1,0 +1,6 @@
+torch
+torch-geometric
+pandas
+networkx
+matplotlib
+numpy==1.27
